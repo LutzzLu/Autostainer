@@ -1,0 +1,37 @@
+CUDA_VISIBLE_DEVICES=0
+Training group {mode='classification', subset_name='filtered_set'}
+Training on quadrant 0 for run classification/filtered_set/manual_20x_512
+Validation loss: 0.7071460485458374
+Validation loss: 0.6422293782234192
+Training on quadrant 1 for run classification/filtered_set/manual_20x_512
+Validation loss: 0.7543469071388245
+Validation loss: 0.77607661485672
+Training on quadrant 2 for run classification/filtered_set/manual_20x_512
+Validation loss: 0.578474223613739
+Validation loss: 0.592915952205658
+Training on quadrant 3 for run classification/filtered_set/manual_20x_512
+Validation loss: 0.8473076224327087
+Validation loss: 0.8618780970573425
+Overall precision: tensor(0.7092)
+Overall recall: tensor(0.6617)
+Overall tp: tensor(1337805.)
+Overall tn: tensor(2168984.)
+Overall fp: tensor(548663.)
+Overall fn: tensor(684023.)
+ * Running SpatialDE
+      total_counts  image_x  image_y
+0       602.816528     8224     7168
+1       541.529541     8228     7088
+2       467.519470     8231     7008
+3       428.418945     8234     6927
+4       413.579437     8237     6847
+...            ...      ...      ...
+4856    282.322876     3040     2170
+4857    244.672287     3043     2090
+4858    179.901978     3046     2009
+4859    374.396912     3049     1929
+4860    599.789307     3053     1849
+
+[4861 rows x 3 columns]
+(4861, 1) (4861, 1)
+ * Done

@@ -1,0 +1,136 @@
+CUDA_VISIBLE_DEVICES=0
+Overall precision: tensor(0.7874, device='cuda:0')
+Overall recall: tensor(0.8094, device='cuda:0')
+Overall tp: tensor(669925., device='cuda:0')
+Overall tn: tensor(208337., device='cuda:0')
+Overall fp: tensor(180832., device='cuda:0')
+Overall fn: tensor(157706., device='cuda:0')
+Overall precision: tensor(0.8669, device='cuda:0')
+Overall recall: tensor(0.5244, device='cuda:0')
+Overall tp: tensor(433977., device='cuda:0')
+Overall tn: tensor(322551., device='cuda:0')
+Overall fp: tensor(66618., device='cuda:0')
+Overall fn: tensor(393654., device='cuda:0')
+epcam=16 aurocs[epcam]=0.8035078353831997
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.8153, device='cuda:0')
+Overall recall: tensor(0.0523, device='cuda:0')
+Overall tp: tensor(21866., device='cuda:0')
+Overall tn: tensor(753789., device='cuda:0')
+Overall fp: tensor(4954., device='cuda:0')
+Overall fn: tensor(396216., device='cuda:0')
+Overall precision: tensor(0.7257, device='cuda:0')
+Overall recall: tensor(0.1521, device='cuda:0')
+Overall tp: tensor(63580., device='cuda:0')
+Overall tn: tensor(734707., device='cuda:0')
+Overall fp: tensor(24036., device='cuda:0')
+Overall fn: tensor(354502., device='cuda:0')
+epcam=16 aurocs[epcam]=0.7117030980405087
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.3630, device='cuda:0')
+Overall recall: tensor(0.8439, device='cuda:0')
+Overall tp: tensor(339435., device='cuda:0')
+Overall tn: tensor(218851., device='cuda:0')
+Overall fp: tensor(595714., device='cuda:0')
+Overall fn: tensor(62800., device='cuda:0')
+Overall precision: tensor(0.3765, device='cuda:0')
+Overall recall: tensor(0.7878, device='cuda:0')
+Overall tp: tensor(316882., device='cuda:0')
+Overall tn: tensor(289838., device='cuda:0')
+Overall fp: tensor(524727., device='cuda:0')
+Overall fn: tensor(85353., device='cuda:0')
+epcam=16 aurocs[epcam]=0.747931052521448
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.2163, device='cuda:0')
+Overall recall: tensor(0.3325, device='cuda:0')
+Overall tp: tensor(38309., device='cuda:0')
+Overall tn: tensor(961803., device='cuda:0')
+Overall fp: tensor(138804., device='cuda:0')
+Overall fn: tensor(76909., device='cuda:0')
+Overall precision: tensor(0.3135, device='cuda:0')
+Overall recall: tensor(0.1875, device='cuda:0')
+Overall tp: tensor(21600., device='cuda:0')
+Overall tn: tensor(1053311., device='cuda:0')
+Overall fp: tensor(47296., device='cuda:0')
+Overall fn: tensor(93618., device='cuda:0')
+epcam=16 aurocs[epcam]=0.8628829347930471
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.4805, device='cuda:0')
+Overall recall: tensor(0.5126, device='cuda:0')
+Overall tp: tensor(178443., device='cuda:0')
+Overall tn: tensor(613344., device='cuda:0')
+Overall fp: tensor(192917., device='cuda:0')
+Overall fn: tensor(169696., device='cuda:0')
+Overall precision: tensor(0.7049, device='cuda:0')
+Overall recall: tensor(0.2357, device='cuda:0')
+Overall tp: tensor(82072., device='cuda:0')
+Overall tn: tensor(771903., device='cuda:0')
+Overall fp: tensor(34358., device='cuda:0')
+Overall fn: tensor(266067., device='cuda:0')
+epcam=16 aurocs[epcam]=0.7408061949351906
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.3155, device='cuda:0')
+Overall recall: tensor(0.0608, device='cuda:0')
+Overall tp: tensor(8103., device='cuda:0')
+Overall tn: tensor(1060112., device='cuda:0')
+Overall fp: tensor(17576., device='cuda:0')
+Overall fn: tensor(125159., device='cuda:0')
+Overall precision: tensor(0.2432, device='cuda:0')
+Overall recall: tensor(0.0972, device='cuda:0')
+Overall tp: tensor(12950., device='cuda:0')
+Overall tn: tensor(1037381., device='cuda:0')
+Overall fp: tensor(40307., device='cuda:0')
+Overall fn: tensor(120312., device='cuda:0')
+epcam=16 aurocs[epcam]=0.8900360144057623
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.8449, device='cuda:0')
+Overall recall: tensor(0.6227, device='cuda:0')
+Overall tp: tensor(543114., device='cuda:0')
+Overall tn: tensor(244908., device='cuda:0')
+Overall fp: tensor(99698., device='cuda:0')
+Overall fn: tensor(329080., device='cuda:0')
+Overall precision: tensor(0.8035, device='cuda:0')
+Overall recall: tensor(0.7199, device='cuda:0')
+Overall tp: tensor(627860., device='cuda:0')
+Overall tn: tensor(191057., device='cuda:0')
+Overall fp: tensor(153549., device='cuda:0')
+Overall fn: tensor(244334., device='cuda:0')
+epcam=16 aurocs[epcam]=0.6798708412616041
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.8330, device='cuda:0')
+Overall recall: tensor(0.2557, device='cuda:0')
+Overall tp: tensor(148672., device='cuda:0')
+Overall tn: tensor(605630., device='cuda:0')
+Overall fp: tensor(29808., device='cuda:0')
+Overall fn: tensor(432690., device='cuda:0')
+Overall precision: tensor(0.8168, device='cuda:0')
+Overall recall: tensor(0.4039, device='cuda:0')
+Overall tp: tensor(234795., device='cuda:0')
+Overall tn: tensor(582784., device='cuda:0')
+Overall fp: tensor(52654., device='cuda:0')
+Overall fn: tensor(346567., device='cuda:0')
+epcam=16 aurocs[epcam]=0.9017473586439102
+Rendered predictions heatmap.
+Rendered ground truth heatmap.
+Overall precision: tensor(0.4506, device='cuda:0')
+Overall recall: tensor(0.3589, device='cuda:0')
+Overall tp: tensor(100015., device='cuda:0')
+Overall tn: tensor(816200., device='cuda:0')
+Overall fp: tensor(121966., device='cuda:0')
+Overall fn: tensor(178619., device='cuda:0')
+Overall precision: tensor(0.5150, device='cuda:0')
+Overall recall: tensor(0.2650, device='cuda:0')
+Overall tp: tensor(73829., device='cuda:0')
+Overall tn: tensor(868650., device='cuda:0')
+Overall fp: tensor(69516., device='cuda:0')
+Overall fn: tensor(204805., device='cuda:0')
+epcam=16 aurocs[epcam]=0.7000153996201428
+Rendered predictions heatmap.
+Rendered ground truth heatmap.

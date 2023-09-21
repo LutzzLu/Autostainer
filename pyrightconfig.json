@@ -1,0 +1,3 @@
+{
+	"exclude": ["input_data", "checkpoints", "__pycache__", "renders"]
+}
