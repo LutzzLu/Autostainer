@@ -1,2 +1,0 @@
-/var/spool/slurmd/job5474186/slurm_script: line 16: cd: /dartfs/rc/nosnapshots/V/VaickusL-nb/EDIT_Students/projects/statial_omics/autostainer_study/: No such file or directory
-slurmstepd: error: *** JOB 5474186 ON gv01 CANCELLED AT 2022-12-22T18:55:21 ***

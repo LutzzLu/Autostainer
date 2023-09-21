@@ -1,5 +1,0 @@
-CUDA_VISIBLE_DEVICES=0
-Training group {mode='classification', subset_name='filtered_set'}
-Training on quadrant 0 for run 2layer/classification/filtered_set/autostained_40x_512
-Validation loss: 0.5312690734863281
-Validation loss: 0.38820910453796387
